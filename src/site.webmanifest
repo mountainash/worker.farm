@@ -1,0 +1,13 @@
+{
+  "short_name": "worker.farm",
+  "name": "worker.farm",
+  "icons": [{
+    "src": "apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "158x158"
+  }],
+  "start_url": "/?ref=pwa",
+  "display": "fullscreen",
+  "background_color": "#3B967A",
+  "theme_color": "#3B967A"
+}
